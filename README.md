@@ -8,6 +8,7 @@ cd /var/ww/html/josuahtml
 
 # Masuk ke index.html
 nano index.html
+
 ![alt text](https://github.com/josuafrino/Web_server-HTML/blob/main/gambar/index.html.png?raw=true)
 
 # Buka kembali apache2, lalu masuk ke file index.html, maka akan menampilkan hasil berikut
